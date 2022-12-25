@@ -22,7 +22,10 @@ html{
 .music-container{
     width: 35rem;
     height: 55rem;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
+    background-image: url(https://secure.gravatar.com/avatar/a9796e4ddd6eb4d33188ca00c76ce7d0?s=500&d=mm&r=g);
+    background-repeat: no-repeat;
+    height: 50000;
     border-radius: 2rem;
     box-shadow: 0 1.2rem 3rem 0.5rem rgba(0, 0, 0, 0.2rem);
     padding: 3rem;
@@ -72,6 +75,7 @@ img{
     align-items: center;
     margin: auto;
     margin-top: 5rem;
+    background-image: url(https://media.istockphoto.com/id/1280385511/photo/colorful-background.jpg?b=1&s=170667a&w=0&k=20&c=MuV8KwtwQ7Zc7wN5SoGyS0IcBKGCp8GvtQi-MwNdjzM=);
 }
 
 .music-controls .main-button {
